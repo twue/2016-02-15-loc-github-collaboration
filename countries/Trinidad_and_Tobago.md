@@ -1,14 +1,17 @@
 ##Trinidad_and_Tobago
-## population
+## population 
+1,305,000 
 
 
-## capital
+## capital 
+Port of Spain
 
  
-## official language
+## official language 
+English, Hindi, French, Spanish
 
 
-## interesting trivia
-
+## interesting trivia 
+Literacy rate is one of the highest in the world at 99%!
 
 
