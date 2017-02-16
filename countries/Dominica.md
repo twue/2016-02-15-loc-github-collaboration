@@ -1,14 +1,14 @@
 ##Dominica
-## population
+## population : 72,324
 
 
-## capital
+## capital : Roseau
 
  
-## official language
+## official language : English
 
 
-## interesting trivia
+## interesting trivia Famed novelist Jean Rhys was born and raised in Dominica.
 
 
 
