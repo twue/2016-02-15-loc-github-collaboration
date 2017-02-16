@@ -1,14 +1,14 @@
 ##Luxembourg
-## population
+## population 576,249
 
 
-## capital
+## capital Luxembourg City
 
  
-## official language
+## official languages French, German, and Luxembourgish
 
 
-## interesting trivia
+## interesting trivia Luxembourg is the world's only remaining grand duchy.
 
 
 
