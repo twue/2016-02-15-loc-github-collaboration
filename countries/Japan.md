@@ -8,7 +8,7 @@
 ## official language - Japanese
 
 
-## interesting trivia - Japan has one vendinng machine for every 23 
+## interesting trivia - Japan has one vending machine for every 23 
 people
 
 
