@@ -5,7 +5,8 @@
 ## capital
 
  
-## official language: Eritrea
+## official language
+Eritrean
 
 
 ## interesting trivia: My friend is from Eritrea
