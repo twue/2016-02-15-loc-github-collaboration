@@ -6,9 +6,10 @@
 
  
 ## official language
+Eritrean
 
 
-## interesting trivia
+## interesting trivia: My friend is from Eritrea
 
 
 
