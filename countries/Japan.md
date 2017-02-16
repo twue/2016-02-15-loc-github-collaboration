@@ -1,14 +1,15 @@
 ##Japan
-## population
+## population - 127.3 million
 
 
-## capital
+## capital - Tokyo
 
  
-## official language
+## official language - Japanese
 
 
-## interesting trivia
+## interesting trivia - Japan has one vending machine for every 23 
+people
 
 
 
