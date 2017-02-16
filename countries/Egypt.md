@@ -1,14 +1,14 @@
 ##Egypt
-## population
+## population 92,616,000
 
 
-## capital
+## capital Cairo
 
  
-## official language
+## official language Arabic
 
 
-## interesting trivia
+## interesting trivia The pyramids were originally encased in bright, white limestone that would glimmer under the desert sun.
 
 
 
